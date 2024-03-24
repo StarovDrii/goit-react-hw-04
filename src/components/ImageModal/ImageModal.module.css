@@ -1,0 +1,19 @@
+.img {
+  height: 90vh;
+  margin-bottom: 5px;
+}
+.info {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 5px;
+}
+.info > :first-child {
+  margin-right: 10px;
+}
+.info > :last-child {
+  text-decoration: underline;
+  margin-left: auto;
+}
+.user_img {
+  border-radius: 50%;
+}
